@@ -1,0 +1,14 @@
+
+
+body {
+  background-color: #FFFFFF;
+}
+
+.floatright {
+  float: right;
+  margin-left: 200px;
+}
+
+.clear {
+  float: right;
+}
